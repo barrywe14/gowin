@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"DIP-8_W7.62mm";1;"HCPL3120";;;
+2;"XA1";"Arduino_Mini_Socket";1;"Arduino_Mini_01_Socket";;;
+3;"D1";"D_5W_P10.16mm_Horizontal";1;"D";;;
+4;"DashboardConn1";"Pin_Header_Straight_1x07_Pitch2.54mm";1;"XH2.54_7p";;;
+5;"MotorConn1,BatterySupply1,DCDCConverter1";"TerminalBlock_Phoenix_MPT-2.54mm_2pol";3;"Conn_1x2";;;
+6;"R1,R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";2;"R";;;
+7;"RV1,RV2,RV3";"Potentiometer_Trimmer_Bourns_3296W";3;"POT_TRIM";;;
+8;"U1";"DIP-14_W7.62mm_Socket_LongPads";1;"LM324";;;
+9;"Q1";"TO-220-3_Vertical";1;"IRF3205";;;
+10;"C1";"CP_Radial_D12.5mm_P5.00mm";1;"CP";;;
+11;"Encoder1,PositionTrigger1";"Pin_Header_Straight_1x04_Pitch2.54mm";2;"XH2.54_4p";;;
+12;"PinHeadBawah1";"Pin_Header_Straight_2x03_Pitch2.54mm";1;"Conn_02x03_Odd_Even";;;
+13;"PinHeadKanan1,PinHeadKiri1";"Pin_Header_Straight_2x12_Pitch2.54mm";2;"Conn_02x12_Odd_Even";;;
+14;"REF**,REF**,REF**";"MountingHole_3.2mm_M3_ISO7380_Pad";3;"MountingHole_3.2mm_M3_ISO7380_Pad";;;

@@ -1,0 +1,13 @@
+Desain3d :
+File Desain 3D berupa file "rumahanDropperAssembly.STEP"
+
+Dari analisa hasil terakhir, dropper bijinya terlalu keras untuk berputar,
+ hingga motor berputar terus namun dropper. Selain itu, dropper biji ada yang nahan didasar dropper karena desainnya belum bagus.
+Analisa terakhir diakibatkan rumahan terlalu kecil, dan desain yang belum bagus.
+
+mohon redesign encoder pada motor, 
+encoder yang digunakan 
+https://www.tokopedia.com/cncstorejogja/cnc-rotary-encoder-400-pulses-per-rotation-enkoder?trkid=f=Ca4322L000P0W0S0Sh,Co0Po0Fr0Cb0_src=universe_page=1_ob=23_q=rotary+encoder_bmexp=39_po=1_catid=4322_bmexp=39&whid=0
+(foto Terlampir)
+
+
