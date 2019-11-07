@@ -403,5 +403,5 @@ DB25 : 1-4
 Text Notes 2350 1700 2    60   ~ 0
 MotorKonektor
 Text Notes 2550 4950 0    60   ~ 0
-MotorKonektor - Wire - DB25 \n+5V : 1 - Merah - 20\nS : 2 - Biru - 8\nGND : 4 - Hitam - 21
+MotorKonektor - Wire - DB25 \n+5V : 1 - Merah - 19\nS : 2 - Biru - 7\nGND : 4 - Hitam - 20
 $EndSCHEMATC

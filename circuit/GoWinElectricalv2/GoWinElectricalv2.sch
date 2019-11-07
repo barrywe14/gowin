@@ -280,11 +280,11 @@ DB25 Connector\n
 Text Notes 9500 3000 0    60   ~ 0
 AVPlug
 Text Notes 2000 2550 0    60   ~ 0
-MotorKonektor - Wire - DB25 \n+5V : 1 - Merah - 1\nCHA : 2 - Hijau - 14\nCHB : 3 - Hijau - 2\nGND : 4 - Hitam - 15
+MotorKonektor - Wire - DB25 \n+5V : 1 - Merah - 1\nCHA : 2 - Hijau - 14\nCHB : 3 - Putih - 2\nGND : 4 - Hitam - 15
 Text Notes 4450 2000 2    60   ~ 0
 DB25 : 1-4
 Text Notes 2350 1700 2    60   ~ 0
 MotorKonektor
 Text Notes 2550 4950 0    60   ~ 0
-MotorKonektor - Wire - DB25 \n+5V : 1 - Merah - 20\nS : 2 - Biru - 8\nGND : 4 - Hitam - 21
+MotorKonektor - Wire - DB25 \n+5V : 1 - Cokelat - 19\nS : 2 - Hitam - 7\nGND : 4 - Biru - 20
 $EndSCHEMATC

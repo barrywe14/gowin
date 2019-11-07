@@ -1,4 +1,4 @@
-update=9/30/2019 11:28:30 AM
+update=10/8/2019 5:53:32 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=contrib
 LibName32=valves
 LibName33=C:/Program Files/KiCad/share/kicad/library/arduino-kicad-library-master/arduino
 LibName34=E:/Zharfan's Document/Project Document/Gowin/circuit/library/lm2596_adjustable_dcdc_stepdownmodule
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

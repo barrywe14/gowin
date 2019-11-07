@@ -10,6 +10,7 @@ LiquidCrystal_I2C lcd(0x27,16,2);
  * in milliseconds and the second one is the last time the code executed.
  */
 
+/// Editable Program
 //Init Variabel
 int jarak = 0;
 int djarak = 0;
@@ -58,7 +59,6 @@ LiquidMenu menu(lcd);
 // PIN Define
 #define EncoderTickPin 2
 #define EncoderDirPin 8
-#define EncoderDir -1
 #define PositionTrig 10
 
 #define Dashboard_Button1 11
