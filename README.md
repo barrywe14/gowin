@@ -14,6 +14,9 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 ## Program Arduino
 ![GambarFSM](ProgramDiagram.png)
 
+# Foto Dokumentasi
+
+
 # Aplikasi Pendukung
 
  1. [KiCad](http://kicad-pcb.org/) sebagai pembuat skematik
@@ -21,11 +24,11 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
  3. [Arduino IDE](https://www.arduino.cc/)  sebagai IDE untuk memprogram Arduino UNO
 
 # Partner Terlibat
-<img src="Logo_NotasiVisual.png" alt="drawing" width="100" />
+UASC Manufacturing
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Nzk2NDMzNiwxMzcwNDA3MDMsMTM3MD
-QwNzAzXX0=
+eyJoaXN0b3J5IjpbMjMzMzkyODI1LDE5ODc5NjQzMzYsMTM3MD
+QwNzAzLDEzNzA0MDcwM119
 -->
