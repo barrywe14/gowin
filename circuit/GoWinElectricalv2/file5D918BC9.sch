@@ -32,7 +32,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:arduino
-LIBS:lm2596_adjustable_dcdc_stepdownmodule
 LIBS:GoWinElectricalv2-cache
 EELAYER 25 0
 EELAYER END
