@@ -12,11 +12,11 @@ LiquidCrystal_I2C lcd(0x27,16,2);
 
 /// Editable Program
 //Init Variabel
-int jarak = 0;
-int djarak = 0;
-int jumlahDropbiji = 0;
-int jarakAntarTick = 1; // satuan cm
-int jarakAntarBiji = 4; // satuan cm
+double jarak = 0;
+double djarak = 0;
+double jumlahDropbiji = 0;
+double jarakAntarTick = 0.1; // satuan cm
+double jarakAntarBiji = 4; // satuan cm
 int setup_var = 2;
 
 /*
@@ -59,6 +59,7 @@ LiquidMenu menu(lcd);
 // PIN Define
 #define EncoderTickPin 2
 #define EncoderDirPin 8
+#define EncoderDir 1
 #define PositionTrig 10
 
 #define Dashboard_Button1 11
@@ -91,8 +92,8 @@ void setup() {
 //  pinMode(LED_BUILTIN, OUTPUT);
 
   //INITIALIZATION
-  pinMode(EncoderTickPin, INPUT);
-  pinMode(EncoderDirPin, INPUT);
+  pinMode(EncoderTickPin, INPUT_PULLUP);
+  pinMode(EncoderDirPin, INPUT_PULLUP);
   pinMode(PositionTrig, INPUT);
   pinMode(Dashboard_Button1, INPUT_PULLUP);
   pinMode(Dashboard_Button2, INPUT_PULLUP);
@@ -164,7 +165,7 @@ void running_state(){
   }
 
   
-  if(((jarak % jarakAntarBiji) == 0 ) && (djarak > 0) && (jarak != 0)){
+  if(((int(jarak) % int(jarakAntarBiji)) == 0 ) && (djarak > 0) && (jarak != 0)){
     // DropBiji
     ///Jalankan Motor
     analogWrite(Motor_PWM,255);
@@ -202,7 +203,7 @@ void setup_state(){
   switch(setup_var){
       case 2:
         if(digitalRead(Up_Button) == 0){
-          jarakAntarTick = jarakAntarTick + 1;
+          jarakAntarTick = jarakAntarTick + 0.1;
           delay(100);
         }else if(digitalRead(Down_Button) == 0){
           jarakAntarTick = jarakAntarTick - 1;
