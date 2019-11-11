@@ -18,7 +18,7 @@ Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectrical
 ![GambarHardware](/)
 
 # Cara Pemakaian
-1. Tekan tombol power pada kotak elektronik hitam. Pastikan indikator tegangan menyala !
+1. Tekan tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
 
 2. Kemudian perhatikan tampilan pada lcd, dan tunggu muncul tulisan "Gowin" maka alat mulao beroperasi. Dan ketika ada tulisan "Jarak" dan "Drop" maka peralatan telah berjalan.
 
@@ -41,7 +41,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NTM2NjI3LC03NTUyMTA0MTksMTcwNz
-c5MjgyMiwtMzQ5MTI3ODIsMjMzMzkyODI1LDE5ODc5NjQzMzYs
-MTM3MDQwNzAzLDEzNzA0MDcwM119
+eyJoaXN0b3J5IjpbLTEwNzgwOTMzNjEsLTc1NTIxMDQxOSwxNz
+A3NzkyODIyLC0zNDkxMjc4MiwyMzMzOTI4MjUsMTk4Nzk2NDMz
+NiwxMzcwNDA3MDMsMTM3MDQwNzAzXX0=
 -->
