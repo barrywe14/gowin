@@ -21,11 +21,11 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
  3. [Arduino IDE](https://www.arduino.cc/)  sebagai IDE untuk memprogram Arduino UNO
 
 # Partner Terlibat
-<img src="Logo_NotasiVisual.png" alt="drawing" width="100" />
+UASC Manufacturing
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Nzk2NDMzNiwxMzcwNDA3MDMsMTM3MD
-QwNzAzXX0=
+eyJoaXN0b3J5IjpbOTM3NTY3NzAwLDE5ODc5NjQzMzYsMTM3MD
+QwNzAzLDEzNzA0MDcwM119
 -->
