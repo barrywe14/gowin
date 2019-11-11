@@ -6,6 +6,7 @@ Dokumentasi Elektronik Produk pertanian Gowin (Dropper Biji Jagung).
 # Rangkaian Elektronik Gowin
 Secara general sistem elektrik Gowin
 ![GambarElektronik](/circuit/GoWinElectricalv2/GoWinElectricalv2.sch.svg)
+Dibawah ini adalah rangkaian di dalam kotak elektronik 
 ![GambarHardware](/circuit/GoWinElectricalv2/GowinController.sch.svg)
 Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectricalv2/GowinController-Controller.pdf)
 
@@ -25,5 +26,6 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDQwNzAzLDEzNzA0MDcwM119
+eyJoaXN0b3J5IjpbMTk4Nzk2NDMzNiwxMzcwNDA3MDMsMTM3MD
+QwNzAzXX0=
 -->
