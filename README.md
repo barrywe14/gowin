@@ -20,7 +20,7 @@ Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectrical
 # Cara Pemakaian
 1. Tekan tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
 
-2. Kemudian perhatikan tampilan pada lcd, dan tunggu muncul tulisan "Gowin" maka alat mulao beroperasi. Dan ketika ada tulisan "Jarak" dan "Drop" maka peralatan telah berjalan.
+2. Kemudian perhatikan tampilan pada lcd, dan tunggu muncul tulisan "Gowin" maka alat mulai beroperasi. Dan ketika ada tulisan "Jarak" dan "Drop" maka peralatan telah berjalan.
 
 3. Untuk melakukan reset, maka tekan tombol "reset" pada display.
 
@@ -41,7 +41,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgwOTMzNjEsLTc1NTIxMDQxOSwxNz
+eyJoaXN0b3J5IjpbLTE2MjAwMDk1MjcsLTc1NTIxMDQxOSwxNz
 A3NzkyODIyLC0zNDkxMjc4MiwyMzMzOTI4MjUsMTk4Nzk2NDMz
 NiwxMzcwNDA3MDMsMTM3MDQwNzAzXX0=
 -->
