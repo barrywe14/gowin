@@ -24,7 +24,7 @@ Dropper dan encoder
 <br>
 Konektor kabel Dropper biji 
 <br>
-![KabelDropper](https://github.com/zharfanw/gowin/blob/master/CableDropper.jpg "CableDropper.jpg")
+![KabelDropper](https://github.com/zharfanw/gowin/blob/master/EditedPicture_Cable.jpg "EditedPicture_Cable.jpg")
 # Cara Pemakaian
 1. Putar tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
 
@@ -49,9 +49,9 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDQ3NDI5NSwtOTY0OTIyNzIyLDE1NT
-UzMjI2NjksODQ4MjQyMDcwLDEyMTYxMDU5NjgsLTE2MjAwMDk1
-MjcsLTc1NTIxMDQxOSwxNzA3NzkyODIyLC0zNDkxMjc4MiwyMz
-MzOTI4MjUsMTk4Nzk2NDMzNiwxMzcwNDA3MDMsMTM3MDQwNzAz
-XX0=
+eyJoaXN0b3J5IjpbLTEzMDU3OTI3MTMsMTM5MDQ3NDI5NSwtOT
+Y0OTIyNzIyLDE1NTUzMjI2NjksODQ4MjQyMDcwLDEyMTYxMDU5
+NjgsLTE2MjAwMDk1MjcsLTc1NTIxMDQxOSwxNzA3NzkyODIyLC
+0zNDkxMjc4MiwyMzMzOTI4MjUsMTk4Nzk2NDMzNiwxMzcwNDA3
+MDMsMTM3MDQwNzAzXX0=
 -->
