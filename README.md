@@ -15,7 +15,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 Program Alat bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinScript/GowinScript.ino)
 Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinTestScript/GowinTestScript.ino)
 # Foto Dokumentasi
-![GambarHardwareControlDanInstrumen](/)
+![GambarHardwareControlDanInstrumen](/EditedPicture_Control.jpg)
 
 # Cara Pemakaian
 1. Putar tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
@@ -41,7 +41,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTIwNDkwOSw4NDgyNDIwNzAsMTIxNj
+eyJoaXN0b3J5IjpbMTU1NTMyMjY2OSw4NDgyNDIwNzAsMTIxNj
 EwNTk2OCwtMTYyMDAwOTUyNywtNzU1MjEwNDE5LDE3MDc3OTI4
 MjIsLTM0OTEyNzgyLDIzMzM5MjgyNSwxOTg3OTY0MzM2LDEzNz
 A0MDcwMywxMzcwNDA3MDNdfQ==
