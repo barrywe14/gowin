@@ -18,7 +18,7 @@ Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectrical
 Kontrol, Kotak Elektronik, dan Instrument
 ![GambarHardwareControlDanInstrumen](/EditedPicture_Control.jpg)
 
-![GambarHardwareControlDanInstrumen]![DropperAndEncoder.jpg](https://github.com/zharfanw/gowin/blob/master/DropperAndEncoder.jpg "DropperAndEncoder.jpg")
+[GambarHardwareControlDanInstrumen](https://github.com/zharfanw/gowin/blob/master/DropperAndEncoder.jpg "DropperAndEncoder.jpg")
 
 # Cara Pemakaian
 1. Putar tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
@@ -44,8 +44,8 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2Mzk4ODM0LDE1NTUzMjI2NjksODQ4Mj
-QyMDcwLDEyMTYxMDU5NjgsLTE2MjAwMDk1MjcsLTc1NTIxMDQx
-OSwxNzA3NzkyODIyLC0zNDkxMjc4MiwyMzMzOTI4MjUsMTk4Nz
-k2NDMzNiwxMzcwNDA3MDMsMTM3MDQwNzAzXX0=
+eyJoaXN0b3J5IjpbLTIwMzgwMjgxOCwxNTU1MzIyNjY5LDg0OD
+I0MjA3MCwxMjE2MTA1OTY4LC0xNjIwMDA5NTI3LC03NTUyMTA0
+MTksMTcwNzc5MjgyMiwtMzQ5MTI3ODIsMjMzMzkyODI1LDE5OD
+c5NjQzMzYsMTM3MDQwNzAzLDEzNzA0MDcwM119
 -->
