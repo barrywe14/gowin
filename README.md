@@ -27,6 +27,8 @@ Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectrical
 4. Untuk melakukan pengaturan, tekan tombol "Atur". Untuk mengubah parameter kalibrasi "Tick/Biji" bisa tekan tombol  (  ) atau tombol (  ). Satuan yang digunakan merupakan centimeter. Dan untuk mengubah parameter yang ingin diatur, tekan lagi tombol "Atur".
 
 5. Untuk kembali beroperasi, tekan tombol (  ) dan tombol (  ) bersamaan
+## Perhatian
+- Charge baterai ketika menunjukan 8.1 V, dan jangan sampai melebihi 12V. Indikator terlihat pada kotak elektronik.
 # Aplikasi Pendukung
 
  1. [KiCad](http://kicad-pcb.org/) sebagai pembuat skematik
@@ -39,7 +41,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzQ1NzMzOSwtNzU1MjEwNDE5LDE3MD
-c3OTI4MjIsLTM0OTEyNzgyLDIzMzM5MjgyNSwxOTg3OTY0MzM2
-LDEzNzA0MDcwMywxMzcwNDA3MDNdfQ==
+eyJoaXN0b3J5IjpbODM0NTM2NjI3LC03NTUyMTA0MTksMTcwNz
+c5MjgyMiwtMzQ5MTI3ODIsMjMzMzkyODI1LDE5ODc5NjQzMzYs
+MTM3MDQwNzAzLDEzNzA0MDcwM119
 -->
