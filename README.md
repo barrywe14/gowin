@@ -24,9 +24,9 @@ Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectrical
 
 3. Untuk melakukan reset, maka tekan tombol "reset" pada display.
 
-4. Untuk melakukan pengaturan, tekan tombol "Atur". Untuk mengubah parameter kalibrasi "Tick/Biji" bisa tekan tombol  (  ) atau tombol (  ). Satuan yang digunakan merupakan centimeter. Dan untuk mengubah parameter yang ingin diatur, tekan lagi tombol "Atur".
+4. Untuk melakukan pengaturan, tekan tombol "Atur". Untuk mengubah parameter kalibrasi "Tick/Biji" bisa tekan tombol  ( up ) atau tombol ( down ). Satuan yang digunakan merupakan centimeter. Dan untuk mengubah parameter yang ingin diatur, tekan lagi tombol "Atur".
 
-5. Untuk kembali beroperasi, tekan tombol (  ) dan tombol (  ) bersamaan
+5. Untuk kembali beroperasi, tekan tombol ( u) dan tombol ( down ) bersamaan
 ## Perhatian
 - Charge baterai ketika menunjukan 8.1 V, dan jangan sampai melebihi 12V. Indikator terlihat pada kotak elektronik.
 # Aplikasi Pendukung
@@ -41,7 +41,8 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjEwNTk2OCwtMTYyMDAwOTUyNywtNz
-U1MjEwNDE5LDE3MDc3OTI4MjIsLTM0OTEyNzgyLDIzMzM5Mjgy
-NSwxOTg3OTY0MzM2LDEzNzA0MDcwMywxMzcwNDA3MDNdfQ==
+eyJoaXN0b3J5IjpbODQ4MjQyMDcwLDEyMTYxMDU5NjgsLTE2Mj
+AwMDk1MjcsLTc1NTIxMDQxOSwxNzA3NzkyODIyLC0zNDkxMjc4
+MiwyMzMzOTI4MjUsMTk4Nzk2NDMzNiwxMzcwNDA3MDMsMTM3MD
+QwNzAzXX0=
 -->
