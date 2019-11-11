@@ -13,6 +13,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 
 ## Program Arduino
 Program Alat bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinScript/GowinScript.ino)
+
 # Foto Dokumentasi
 ![GambarHardware](/)
 
@@ -28,7 +29,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzc5MjgyMiwtMzQ5MTI3ODIsMjMzMz
-kyODI1LDE5ODc5NjQzMzYsMTM3MDQwNzAzLDEzNzA0MDcwM119
-
+eyJoaXN0b3J5IjpbMzMxNTY0NTgwLDE3MDc3OTI4MjIsLTM0OT
+EyNzgyLDIzMzM5MjgyNSwxOTg3OTY0MzM2LDEzNzA0MDcwMywx
+MzcwNDA3MDNdfQ==
 -->
