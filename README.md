@@ -15,8 +15,16 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 Program Alat bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinScript/GowinScript.ino)
 Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinTestScript/GowinTestScript.ino)
 # Foto Dokumentasi
-![GambarHardware](/)
-
+Kontrol, Kotak Elektronik, dan Instrument <br>
+![GambarHardwareControlDanInstrumen](/EditedPicture_Control.jpg)
+<br>
+Dropper dan encoder 
+<br>
+![GambarHardwareControlDanInstrumen](https://github.com/zharfanw/gowin/blob/master/DropperAndEncoder.jpg "DropperAndEncoder.jpg")
+<br>
+Konektor kabel Dropper biji 
+<br>
+![KabelDropper](https://github.com/zharfanw/gowin/blob/master/EditedPicture_Cable.jpg "EditedPicture_Cable.jpg")
 # Cara Pemakaian
 1. Putar tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
 
@@ -41,8 +49,9 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MjQyMDcwLDEyMTYxMDU5NjgsLTE2Mj
-AwMDk1MjcsLTc1NTIxMDQxOSwxNzA3NzkyODIyLC0zNDkxMjc4
-MiwyMzMzOTI4MjUsMTk4Nzk2NDMzNiwxMzcwNDA3MDMsMTM3MD
-QwNzAzXX0=
+eyJoaXN0b3J5IjpbLTEzMDU3OTI3MTMsMTM5MDQ3NDI5NSwtOT
+Y0OTIyNzIyLDE1NTUzMjI2NjksODQ4MjQyMDcwLDEyMTYxMDU5
+NjgsLTE2MjAwMDk1MjcsLTc1NTIxMDQxOSwxNzA3NzkyODIyLC
+0zNDkxMjc4MiwyMzMzOTI4MjUsMTk4Nzk2NDMzNiwxMzcwNDA3
+MDMsMTM3MDQwNzAzXX0=
 -->
