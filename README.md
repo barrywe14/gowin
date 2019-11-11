@@ -13,9 +13,22 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 
 ## Program Arduino
 Program Alat bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinScript/GowinScript.ino)
+Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinTestScript/GowinTestScript.ino)
 # Foto Dokumentasi
 ![GambarHardware](/)
 
+# Cara Pemakaian
+1. Putar tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
+
+2. Kemudian perhatikan tampilan pada lcd, dan tunggu muncul tulisan "Gowin" maka alat mulai beroperasi. Dan ketika ada tulisan "Jarak" dan "Drop" maka peralatan telah berjalan.
+
+3. Untuk melakukan reset, maka tekan tombol "reset" pada display.
+
+4. Untuk melakukan pengaturan, tekan tombol "Atur". Untuk mengubah parameter kalibrasi "Tick/Biji" bisa tekan tombol  (  ) atau tombol (  ). Satuan yang digunakan merupakan centimeter. Dan untuk mengubah parameter yang ingin diatur, tekan lagi tombol "Atur".
+
+5. Untuk kembali beroperasi, tekan tombol (  ) dan tombol (  ) bersamaan
+## Perhatian
+- Charge baterai ketika menunjukan 8.1 V, dan jangan sampai melebihi 12V. Indikator terlihat pada kotak elektronik.
 # Aplikasi Pendukung
 
  1. [KiCad](http://kicad-pcb.org/) sebagai pembuat skematik
@@ -28,7 +41,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzc5MjgyMiwtMzQ5MTI3ODIsMjMzMz
-kyODI1LDE5ODc5NjQzMzYsMTM3MDQwNzAzLDEzNzA0MDcwM119
-
+eyJoaXN0b3J5IjpbMTIxNjEwNTk2OCwtMTYyMDAwOTUyNywtNz
+U1MjEwNDE5LDE3MDc3OTI4MjIsLTM0OTEyNzgyLDIzMzM5Mjgy
+NSwxOTg3OTY0MzM2LDEzNzA0MDcwMywxMzcwNDA3MDNdfQ==
 -->
