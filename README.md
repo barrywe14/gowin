@@ -12,8 +12,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 
 
 ## Program Arduino
-![GambarFSM](ProgramDiagram.png)
-
+Program Alat bisa klik d[isini
 # Foto Dokumentasi
 ![GambarHardware](/)
 
@@ -29,6 +28,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTEyNzgyLDIzMzM5MjgyNSwxOTg3OT
-Y0MzM2LDEzNzA0MDcwMywxMzcwNDA3MDNdfQ==
+eyJoaXN0b3J5IjpbLTMwNTMwNzAzMywtMzQ5MTI3ODIsMjMzMz
+kyODI1LDE5ODc5NjQzMzYsMTM3MDQwNzAzLDEzNzA0MDcwM119
+
 -->
