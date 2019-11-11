@@ -22,7 +22,7 @@ Dropper dan encoder
 <br>
 ![GambarHardwareControlDanInstrumen](https://github.com/zharfanw/gowin/blob/master/DropperAndEncoder.jpg "DropperAndEncoder.jpg")
 <br>
-Dropper dan encoder 
+Konektor kabel Dropper biji 
 <br>
 # Cara Pemakaian
 1. Putar tombol switch disebelah kotak elektronik hitam. Pastikan indikator tegangan menyala !
@@ -48,7 +48,7 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDcxMzUzMSwxNTU1MzIyNjY5LDg0OD
+eyJoaXN0b3J5IjpbLTk2NDkyMjcyMiwxNTU1MzIyNjY5LDg0OD
 I0MjA3MCwxMjE2MTA1OTY4LC0xNjIwMDA5NTI3LC03NTUyMTA0
 MTksMTcwNzc5MjgyMiwtMzQ5MTI3ODIsMjMzMzkyODI1LDE5OD
 c5NjQzMzYsMTM3MDQwNzAzLDEzNzA0MDcwM119
