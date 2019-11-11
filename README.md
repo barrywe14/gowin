@@ -15,6 +15,9 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 Program Alat bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinScript/GowinScript.ino)
 Kemudian program untuk test hardware bisa klik [disini](/circuit/GoWinElectricalv1/program/GowinTestScript/GowinTestScript.ino)
 # Foto Dokumentasi
+Kontrol, Kotak Elektronik, dan Instrument
+![GambarHardwareControlDanInstrumen](/EditedPicture_Control.jpg)
+
 ![GambarHardwareControlDanInstrumen](/EditedPicture_Control.jpg)
 
 # Cara Pemakaian
@@ -41,8 +44,8 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTMyMjY2OSw4NDgyNDIwNzAsMTIxNj
-EwNTk2OCwtMTYyMDAwOTUyNywtNzU1MjEwNDE5LDE3MDc3OTI4
-MjIsLTM0OTEyNzgyLDIzMzM5MjgyNSwxOTg3OTY0MzM2LDEzNz
-A0MDcwMywxMzcwNDA3MDNdfQ==
+eyJoaXN0b3J5IjpbMzE2NDQ2MTE2LDE1NTUzMjI2NjksODQ4Mj
+QyMDcwLDEyMTYxMDU5NjgsLTE2MjAwMDk1MjcsLTc1NTIxMDQx
+OSwxNzA3NzkyODIyLC0zNDkxMjc4MiwyMzMzOTI4MjUsMTk4Nz
+k2NDMzNiwxMzcwNDA3MDMsMTM3MDQwNzAzXX0=
 -->
