@@ -15,7 +15,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](/circuit/GoWinElectrica
 ![GambarFSM](ProgramDiagram.png)
 
 # Foto Dokumentasi
-
+![GambarHardware](/)
 
 # Aplikasi Pendukung
 
@@ -29,6 +29,6 @@ UASC Manufacturing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzkyODI1LDE5ODc5NjQzMzYsMTM3MD
-QwNzAzLDEzNzA0MDcwM119
+eyJoaXN0b3J5IjpbLTM0OTEyNzgyLDIzMzM5MjgyNSwxOTg3OT
+Y0MzM2LDEzNzA0MDcwMywxMzcwNDA3MDNdfQ==
 -->
